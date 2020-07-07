@@ -13,7 +13,11 @@
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^0.4.10",
-    "nuxt": "^2.13.0"
+    "axios": "^0.19.2",
+    "element-ui": "^2.13.2",
+    "moment": "^2.27.0",
+    "nuxt": "^2.13.0",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "@nuxt/typescript-build": "^1.0.3",
@@ -21,7 +25,10 @@
     "@nuxtjs/eslint-config-typescript": "^2.0.0",
     "@nuxtjs/eslint-module": "^2.0.0",
     "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
     "eslint": "^7.2.0",
-    "eslint-plugin-nuxt": "^1.0.0"
+    "eslint-plugin-nuxt": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.1"
   }
 }
