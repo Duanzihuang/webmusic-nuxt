@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^0.4.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "element-ui": "^2.13.2",
     "moment": "^2.27.0",
     "nuxt": "^2.13.0",
